@@ -4,12 +4,15 @@ install prerequisite
 
 
 1.ghostscript 
+
 sudo apt-get install ghostscript
 
 2.pdftk 
+
 sudo apt-get install pdftk
 
 3.RNAfold
+
 https://www.tbi.univie.ac.at/RNA/
 
 
