@@ -1,6 +1,8 @@
 This script will predict the secondary structure from miRNA hairpin and combine all structure in a single file with their name.
 
 install prerequisite
+
+
 1.ghostscript 
 sudo apt-get install ghostscript
 
